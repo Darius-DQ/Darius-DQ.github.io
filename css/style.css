@@ -212,7 +212,7 @@ body {
   margin-bottom: 20px;
 }
 #nexmoe-header .nexmoe-copyright a {
-  color: #ff4e6a;
+  color: #4ec2ff;
 }
 @media screen and (max-width: 1024px) {
   #nexmoe-header {
@@ -367,7 +367,7 @@ body {
   position: relative;
 }
 #nexmoe-content .nexmoe-post .nexmoe-post-copyright a {
-  color: #ff4e6a;
+  color: #4ec2ff;
 }
 #nexmoe-content .nexmoe-post-footer {
   background-color: #f5f6f5;
@@ -725,7 +725,7 @@ article > ol > li::before {
   width: 1.5rem;
   text-align: center;
   border-radius: 100%;
-  background-color: rgba(255,78,106,0.1);
+  background-color: rgba(78,194,255,0.1);
   color: #4ec2ff;
 }
 article li {
@@ -933,8 +933,8 @@ photos img {
   width: 25%;
 }
 .nexmoe-rainbow a:nth-child(7n+1) {
-  background-color: rgba(255,78,106,0.15);
-  color: #ff4e6a;
+  background-color: rgba(78,194,255,0.15);
+  color: #4ec2ff;
 }
 .nexmoe-rainbow a:nth-child(7n+2) {
   background-color: rgba(255,118,30,0.15);
